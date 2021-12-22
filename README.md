@@ -12,5 +12,5 @@ I got maximum score on this assignment.
 
 Develop a music streaming application. One of the features is a play queue (referred to later as the playlist), much like Spotify's, where the songs that have been queued will automatically play. Various Trees based, and Maps are used in this project.
 
-### Assignment 3: 
+### Assignment 3: Advance Search
 Implement our own dictionary which more advance features than the traditional one. TRIE data structure has been used in this project.
