@@ -2,6 +2,7 @@
 *.class
 
 # Cache file
+*/*.idea
 *.idea
 
 # Log file
