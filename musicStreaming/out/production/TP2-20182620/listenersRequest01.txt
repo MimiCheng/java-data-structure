@@ -1,0 +1,6 @@
+ArtistA Song0   300
+ArtistB Song1	500
+ArtistC Song2	450
+ArtistA Song0	300
+ArtistA Song3	250
+
