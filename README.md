@@ -1,6 +1,6 @@
 # java-happiness
 
-This repository is the homework assignments that I did in Data structure class, which I took at Université de Montréal in Fall 2021. It consists of 3 projects using various data structure. 
+This repository is the homework assignments that I did in Fall 2021 Data structure class at Université de Montréal. It consists of 3 projects using various data structure. 
 
 ### Assignment 1: Card Games (9/10)
 
