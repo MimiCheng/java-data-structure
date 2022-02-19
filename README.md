@@ -14,5 +14,3 @@ Develop a music streaming application. One of the features is a play queue (refe
 ### Assignment 3: Advance Search (97/100, maximum score)
 
 Implement our own dictionary which more advance features than the traditional one. TRIE data structure has been used in this project.
-
-My Assignment2 and Assignment 3 received maximum.
