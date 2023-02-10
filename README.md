@@ -1,4 +1,4 @@
-# java-happiness
+# java-data-structure
 
 This repository is my homework solution of IFT-2015 Data structure class that I took at Université de Montréal in Fall 2021. It consists of 3 projects using various data structure. 
 
